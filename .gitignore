@@ -1,0 +1,8 @@
+# compiled output
+build/
+knob_controller/build/
+
+# raw factory flash dump of the board (large, device-specific)
+backup/
+
+.DS_Store
